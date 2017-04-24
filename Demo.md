@@ -7,6 +7,8 @@ featuee 1dfdfdfdsfd
 
 
 FIX BUG #1
+
+FIX BUG #2
 ---
 ## 1.项目初始化
 
